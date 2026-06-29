@@ -2,7 +2,7 @@
 repo: juan430HCV/.Github
 READMEmd/MIT,Licence.
 **@juan430HCV.org**
-#💡IDE:  <!-- 
+#💡IDE: contributing with new guides <!-- 
 NOTE🥇 **Here are some ideas to get you started:**
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
